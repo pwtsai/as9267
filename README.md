@@ -1,4 +1,5 @@
-![Project Sponsor](https://as9267.itlab.cc/misc/sponsor.png)
+![Project Sponsor: MYREN, TWAREN, APNIC Foundation, and ISIF Asia](https://as9267.itlab.cc/misc/sponsor.png)
+![Project Team: UM, NCU, and NUS](https://as9267.itlab.cc/misc/team.png)
 
 ## About ISIF Asia SDX Project (AS9267), please kindly find this [page](https://as9267.itlab.cc).
 * APNIC::AS-ITLAB
