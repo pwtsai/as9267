@@ -1,7 +1,8 @@
+![Project Sponsor](https://as9267.itlab.cc/misc/sponsor.png)
+
 ## About ISIF Asia SDX Project (AS9267), please kindly find this [page](https://as9267.itlab.cc).
 * APNIC::AS-ITLAB
 * An academic network sponsored by [ISIF Asia](https://isif.asia/) of [APNIC Foundation](https://apnic.foundation/).
-![Project Sponsor](https://as9267.itlab.cc/misc/sponsor.png)
 
 ## Acknowledgments
 * [Malaysian Research & Education Network](http://www.myren.net.my/)
